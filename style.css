@@ -1,0 +1,82 @@
+.container{
+    width: auto;
+    height: auto;
+        }
+    Header{
+        height: 100px;
+        text-align: center;
+    }
+    nav{
+        height: 30px;
+        line-height: 30px;
+        text-align: center;
+        background-color: rgb(240, 230, 220);
+        }
+
+    nav ul li{
+            display: inline-block;
+        }
+        a{
+            text-decoration: none;
+        }
+        li{
+            margin: 0 10px;
+            font-size: 17px;
+        }
+.goud{
+        display: flex;
+        justify-content: space-evenly;
+        height: auto;
+        width: auto
+	}
+    #photo1{
+       height: 155px;
+       width: 200px;
+       border-radius: 20px;
+       padding: 5px;
+       box-shadow:rgb(210, 190, 220) 3px 3px 3px 3px ;
+       margin: 5px;
+       text-align: center;
+      }
+    #photo2{
+       height: 155px;
+       width: 200px;
+       border-radius: 20px;
+       padding: 5px;
+       box-shadow:rgb(200, 190, 180) 3px 3px 3px 3px ;
+       margin: 5px;
+       text-align: center;         
+      }
+   #photo3{
+       height: 155px;
+       width: 200px;
+       border-radius: 20px;
+       padding: 5px;
+       box-shadow:rgb(180, 160, 140) 3px 3px 3px 3px ;
+       margin: 5px;
+       text-align: center; 
+      }
+   #photo4{
+       height: 155px;
+       width: 200px;
+       border-radius: 20px;
+       padding: 5px;
+       box-shadow:rgb(150, 140, 130) 3px 3px 3px 3px ;
+       margin: 5px;
+       text-align: center; 
+      }
+    
+footer{
+    height: 30px;
+    line-height: 30px;
+    background-color: rgb(250, 225, 200, 0.251);
+    text-align: center;
+    }
+
+     #ph{
+        border-radius: 50%;
+
+     }   
+     #ph1{
+        border-radius: 40px;
+     }   
